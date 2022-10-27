@@ -1,0 +1,76 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyN/UcPjthnSlfM42kqzw0wb",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/angelica17200/ejercicios_basicos_colab/blob/main/ejercicios_basicos.npipy\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "qznx2K4egmOz"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#Ejerccio básicos Python \n",
+        "1. suma de dos números \n",
+        "2. potencia de un número \n"
+      ],
+      "metadata": {
+        "id": "J3v1j11Lgozk"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# suma de dos números enteros\n",
+        "\n",
+        "print(\"--------------------------------\")\n",
+        "print(\"------SUMA DE DOS ENTEROS-------\")\n",
+        "print(\"--------------------------------\")\n",
+        "\n",
+        "#INPUT \n",
+        "x = int(input(\"Digite el valor de x:\"))\n",
+        "y = int (input(\"Digite el valor de y:\"))\n",
+        "\n",
+        "#PROCCESSING\n",
+        "\n",
+        "z= x +  y\n",
+        "\n",
+        "#OUTPUT\n",
+        "print(\"La suma de \",x,\"+\",y,\" es \",z)"
+      ],
+      "metadata": {
+        "id": "Yek3dxuWhAGr"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
